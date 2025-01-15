@@ -30,4 +30,8 @@
         "node_modules",
         "dist"
     ],
+
+    "scripts": {
+        "start": "ts-node src/Bot.ts"
+    }
 }
