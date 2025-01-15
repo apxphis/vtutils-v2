@@ -1,0 +1,30 @@
+{
+  "name": "vtutils-v2",
+  "version": "0.0.1",
+  "description": "a simple minecraft smp utility bot available via discord",
+  "keywords": [
+    "smp",
+    "minecraft",
+    "minecraft",
+    "server",
+    "typescript",
+    "discord",
+    "discord",
+    "bot"
+  ],
+  "homepage": "https://github.com/apxphis/vtutils-v2#readme",
+  "bugs": {
+    "url": "https://github.com/apxphis/vtutils-v2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apxphis/vtutils-v2.git"
+  },
+  "license": "MIT",
+  "author": "via",
+  "type": "typescript",
+  "main": "bot.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
